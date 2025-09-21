@@ -1,6 +1,7 @@
 # Calculadora.java
 
 Este código Java implementa una aplicación de calculadora simple utilizando Swing para la interfaz gráfica de usuario (GUI). La calculadora soporta operaciones aritméticas básicas como suma, resta, multiplicación y división.
+<img width="1242" height="694" alt="image" src="https://github.com/user-attachments/assets/af22744a-cfa8-408a-ad45-bc10739b34ed" />
 
 <img width="400" height="537" alt="image" src="https://github.com/user-attachments/assets/21034b80-0b1d-4f86-b6a0-534faf339f3b" />
 
